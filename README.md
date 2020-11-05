@@ -21,7 +21,7 @@ The vulnerable is in Theme upload function.
 ![](https://github.com/jkana/HorizontCMS-1.0.0-beta-shell-upload/raw/main/Images/4.JPG)
 
 4.Access to shell **http://IP/themes/shell.php**. For example:
-```http://192.168.10.67:81/hcms/themes/shell.php``
+```http://192.168.10.67:81/hcms/themes/shell.php```
 
 ![](https://github.com/jkana/HorizontCMS-1.0.0-beta-shell-upload/raw/main/Images/3.JPG)
 
