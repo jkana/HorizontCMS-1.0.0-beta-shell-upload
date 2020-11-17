@@ -1,4 +1,4 @@
-# HorizontCMS-1.0.0-beta-shell-upload
+# HorizontCMS-1.0.0-beta-shell-upload (CVE-2020-28693)
 
 Author: jkana
 ----
